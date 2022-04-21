@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/heatcool-web/static/css/main.a9be66fb.css",
+    "main.js": "/heatcool-web/static/js/main.efe1775c.js",
+    "static/media/papa.jpeg": "/heatcool-web/static/media/papa.dcf580863483144fc381.jpeg",
+    "static/media/logo.png": "/heatcool-web/static/media/logo.8ee4964be91d5afed1a0.png",
+    "static/media/van.svg": "/heatcool-web/static/media/van.41e978618c126739efcf43dc386d9c27.svg",
+    "index.html": "/heatcool-web/index.html",
+    "static/media/red.svg": "/heatcool-web/static/media/red.021c79158a00ce6242a8fd2e93bd5c87.svg",
+    "static/media/blue.svg": "/heatcool-web/static/media/blue.ef84db916719a27442613d2036d8c0f3.svg",
+    "main.a9be66fb.css.map": "/heatcool-web/static/css/main.a9be66fb.css.map",
+    "main.efe1775c.js.map": "/heatcool-web/static/js/main.efe1775c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9be66fb.css",
+    "static/js/main.efe1775c.js"
+  ]
+}
